@@ -1,5 +1,5 @@
-<?php
+ï»¿<?php
 
-echo 'Hello World!‚±‚ñ‚É‚¿‚í';
+echo 'Hello World!?ã“ã‚“ã«ã¡ã‚';
 
 ?>
